@@ -1,4 +1,4 @@
-# Sophia
+# SPlRlT YT BOT
 Simple whatsapp bot | Reedited from whatsasena 
 
 
