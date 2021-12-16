@@ -58,10 +58,10 @@ Click WA logo to Join Support Group ðŸ‘‡
 ## 
   <h3 align="center">ðŸ“¢ Support Group 2:</h3>
 <p align="center">
-Click Sophia logo to Join Support Group 2ðŸ‘‡
+SPlRlT logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://i.imgur.com/1CjbIG8.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://chat.whatsapp.com/FLqVrc4RdakIjXqcNYz7vU" target="blank"><img align="center" src="https://i.imgur.com/aAGjt7z.jpg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -115,9 +115,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ```
 
 ## Developers
-  <div align="center">
-    
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  <div align
+SPlRlT SER BOT
+  [![SPlRlT-kallumthodi](https://github.chttps://i.itps://github.com/ameer-kallumtho 
 ----|----|----
 [ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
 Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules
